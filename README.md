@@ -10,7 +10,7 @@
 const thierno = {
   role:      "Full-Stack & Mobile Developer · Backend Specialist",
   location:  "Dakar, Sénégal 🇸🇳",
-  focus:     ["Web Apps", "Mobile (React Native)", "Cloud & DevOps"],
+  focus:     ["Web Apps", "Mobile", "Cloud & DevOps"],
   available: true,
 };
 ```
